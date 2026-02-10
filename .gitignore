@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TensorFlow
+logs/
+checkpoints/
+saved_model/
+*.h5
+*.keras
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.log
